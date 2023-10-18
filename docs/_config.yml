@@ -33,12 +33,6 @@ github_username:  nacarino
 theme: minima
 #remote_theme: jekyll/minima
 
-#bing_site_verification: "986B8E6D02E62C484B610F6700CB608F"
-#analytics:
-#  provider: "custom-G4A"
-#    tracking_id: "G-4MPVMY3ZPT"
-google_analytics: UA-NNNNNNNN-N
-
 plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
