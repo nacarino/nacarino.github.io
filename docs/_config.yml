@@ -37,7 +37,7 @@ theme: minima
 #analytics:
 #  provider: "custom-G4A"
 #    tracking_id: "G-4MPVMY3ZPT"
-google_analytics: ""
+google_analytics: UA-NNNNNNNN-N
 
 plugins:
   - jekyll-feed
