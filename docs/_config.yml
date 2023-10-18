@@ -31,8 +31,16 @@ github_username:  nacarino
 google_analytics: G-4MPVMY3ZPT
 # Build settings
 theme: minima
+#remote_theme: jekyll/minima
+
+bing_site_verification: "986B8E6D02E62C484B610F6700CB608F"
+analytics:
+    provider: "custom-G4A"
+        tracking_id: "G-4MPVMY3ZPT"
+
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
