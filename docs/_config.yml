@@ -34,9 +34,9 @@ theme: minima
 #remote_theme: jekyll/minima
 
 bing_site_verification: "986B8E6D02E62C484B610F6700CB608F"
-analytics:
-  provider: "custom-G4A"
-    tracking_id: "G-4MPVMY3ZPT"
+#analytics:
+#  provider: "custom-G4A"
+#    tracking_id: "G-4MPVMY3ZPT"
 
 plugins:
   - jekyll-feed
